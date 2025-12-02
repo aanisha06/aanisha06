@@ -3,13 +3,13 @@
 <img  align="right" alt="code"  width="400" src="https://www.reactiongifs.us/wp-content/uploads/2018/07/CODING-CLAIRE-DANES.gif">
 
 
-- 🔭 I’m currently studying **computer science**
+- 🔭 I’m a **computer science** Graduate
 
-- 🌱 I’m currently learning **server side scripting**
+- 🌱 I’m currently working as a **Full Stack Developer**
 
-- 🤝 I’m looking for help with **guidance**
+- 🤝 I’m looking for opportunities to build - **Freelancing**
 
-- 💬 Ask me about **JAVA, SQL**
+- 💬 Ask me about **PYTHON, JS, LINUX, COMPUTER NETWORKS, FOSS, SQL**
 
 - 📫 How to reach me **aanishaalmaaz03@gmail.com**
 
